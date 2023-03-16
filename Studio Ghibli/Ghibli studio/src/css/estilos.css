@@ -15,7 +15,13 @@ body {
 .cabecalho .logo {
     width: 65px;
 }
-
+.spotify{
+    padding: 0;
+    margin: 0;
+    width: 200px;
+    height: 200px;
+    
+}
 .cabecalho .menu{
     display: flex;
     align-items: center;
